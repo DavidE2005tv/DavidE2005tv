@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidE2005tv
-- 👀 I’m interested in full stack developing
-- 🌱 I’m currently learning html
+- 👀 I’m interested in creating my own SaaS or StartUp
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a small start-up
 - 📫 How to reach me davidescobarruiz30@gmail.com
 
